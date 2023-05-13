@@ -1,0 +1,11 @@
+.bannerimg {
+    height: 600px;
+    width: 50%;
+    background: url(../images/banner.png) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
