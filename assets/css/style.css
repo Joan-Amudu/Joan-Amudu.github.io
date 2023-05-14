@@ -17,3 +17,12 @@ header.hero {
     color: #000;
     padding-bottom: 80px;
 }
+
+header.hero .hero-text {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+ul.social-links li {
+    display: inline-block;
+}
