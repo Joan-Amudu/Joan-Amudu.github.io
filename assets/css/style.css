@@ -1,3 +1,11 @@
+ul {
+    margin: 0;
+    padding: 0; 
+}
+ul li {
+    list-style: none;
+}
+
 header.hero {
     height: 800px;
     width: 100%;
@@ -8,4 +16,4 @@ header.hero {
     background-size: cover;
     color: #000;
     padding-bottom: 80px;
-  }
+}
